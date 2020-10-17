@@ -38,10 +38,10 @@
 - Bio: A student happy to write code and poetry.
 - GitHub: [Apoorva Sharma](https://github.com/okatticus)
 
-#### Name: [MOHD UROOJ SIDDIQ] (https://github.com/mohduroojsiddiq/hacktoberfest.git)
+#### Name: [MOHD UROOJ SIDDIQ](https://github.com/mohduroojsiddiq/hacktoberfest.git)
 - Place: Aligar,UTTAR PRADESH,India 
 - Bio: A Student and a want to become a good programmer..
-- GitHub: [mohduroojsiddiq] (https://github.com/mohduroojsiddiq/hacktoberfest.git)
+- GitHub: [mohduroojsiddiq](https://github.com/mohduroojsiddiq/hacktoberfest.git)
 
 #### Name: [Aayush Sharma](https://github.com/aayusharma)
 - Place: Mandi, Himachal Pradesh, India
